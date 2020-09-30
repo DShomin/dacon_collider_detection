@@ -2,4 +2,4 @@
 private leaderboard 6th rank
 
 
-## [solution ppt]('./ppt/PPT_theme.pptx')
+## [solution ppt](./ppt/PPT_theme.pptx)
